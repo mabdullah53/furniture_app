@@ -10,7 +10,7 @@ This is a simple furniture app built using Flutter.
 - buy
 
   
-##ScreenShort
+
 ![furnitureapp](https://github.com/mabdullah53/furniture_app/assets/165842713/040d184e-2cdb-4a4e-ad6a-23879c8862b7)
 
 
